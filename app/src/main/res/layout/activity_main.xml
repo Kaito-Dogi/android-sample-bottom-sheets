@@ -18,7 +18,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <!-- BottomSheets：CoordinatorLayout直下のLayoutのlayout_behaviorに、BottomSheetBehaviorを指定する。-->
+    <!-- BottomSheet：CoordinatorLayout直下のLayoutのlayout_behaviorに、BottomSheetBehaviorを指定する。-->
     <androidx.coordinatorlayout.widget.CoordinatorLayout
         android:id="@+id/coordinatorLayout"
         android:layout_width="match_parent"
